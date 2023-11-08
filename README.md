@@ -1,4 +1,5 @@
 # Pandas Project: Make a Gradebook With Pandas
+## By SauSinSan
 
 The code in this folder is used to generate and process the data for the tutorial [Pandas Project: Make a Gradebook With Pandas_](https://realpython.com/pandas-project-gradebook).
 
